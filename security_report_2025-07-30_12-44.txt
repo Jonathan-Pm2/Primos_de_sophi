@@ -1,0 +1,24 @@
+REPORTE DE SEGURIDAD CRIPTOGRÁFICA
+Generado: 2025-07-30T12:44:37.796
+Basado en patrones de raíces digitales
+============================================================
+
+ANÁLISIS DETALLADO:
+----------------------------------------
+Primo	Nivel	Confianza	Raíz	Sophie Germain	Recomendaciones
+1009	INSEGURO	5.0%	1	No	Raíz digital no sigue el patrón esperado; Verificar origen del primo; Tamaño insuficiente para seguridad moderna
+1013	INSEGURO	47.5%	5	Sí	Primo de Sophie Germain válido; Ideal para aplicaciones criptográficas; Tamaño insuficiente para seguridad moderna
+1019	INSEGURO	47.5%	2	Sí	Primo de Sophie Germain válido; Ideal para aplicaciones criptográficas; Tamaño insuficiente para seguridad moderna
+1021	INSEGURO	5.0%	4	No	Raíz digital no sigue el patrón esperado; Verificar origen del primo; Tamaño insuficiente para seguridad moderna
+1031	INSEGURO	47.5%	5	Sí	Primo de Sophie Germain válido; Ideal para aplicaciones criptográficas; Tamaño insuficiente para seguridad moderna
+1033	INSEGURO	5.0%	7	No	Raíz digital no sigue el patrón esperado; Verificar origen del primo; Tamaño insuficiente para seguridad moderna
+1039	INSEGURO	5.0%	4	No	Raíz digital no sigue el patrón esperado; Verificar origen del primo; Tamaño insuficiente para seguridad moderna
+1049	INSEGURO	47.5%	5	Sí	Primo de Sophie Germain válido; Ideal para aplicaciones criptográficas; Tamaño insuficiente para seguridad moderna
+1051	INSEGURO	5.0%	7	No	Raíz digital no sigue el patrón esperado; Verificar origen del primo; Tamaño insuficiente para seguridad moderna
+1061	INSEGURO	37.5%	8	No	Primo válido con raíz digital esperada; Aceptable para uso criptográfico; Tamaño insuficiente para seguridad moderna
+
+ESTADÍSTICAS RESUMIDAS:
+------------------------------
+Total analizado: 10
+Patrones válidos: 5 (50.0%)
+Primos Sophie Germain: 4 (40.0%)
